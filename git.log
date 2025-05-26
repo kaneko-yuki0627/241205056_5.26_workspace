@@ -1,0 +1,36 @@
+commit 2b37fd0f9c4373607f26ff40b47b61072f3ea9bb
+Merge: 744fa7a 5c5c317
+Author: kaneko-yuki0627 <241205056@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:12:55 2025 +0900
+
+    Merge branch 'main' of https://github.com/kaneko-yuki0627/241205056_5.26_workspace
+
+commit 744fa7adb67a731143ff145d9f113108628c3033
+Author: kaneko-yuki0627 <241205056@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:09:28 2025 +0900
+
+    blueをskyblueに変更
+
+commit 5c5c317067c78a230c5f97d999a48d98a3d0ed1d
+Author: 金子 夕輝 <241205056@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:07:20 2025 +0900
+
+    cyanをskyblueに変更
+
+commit fbdc4d6163344896fe1344de278ae57c25f39d00
+Author: kaneko-yuki0627 <241205056@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:03:22 2025 +0900
+
+    ピースの落下速度を変更
+
+commit f1bd4cf08b2c0502e8ca2ea84305c3ffb94f0143
+Author: kaneko-yuki0627 <241205056@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 13:52:20 2025 +0900
+
+    緑色からライム色に変更
+
+commit 94149015f5f3268a6eb68167e364750abe55c27a
+Author: kaneko-yuki0627 <241205056@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 13:39:08 2025 +0900
+
+    canvas tetrisのソースコードをインポート
